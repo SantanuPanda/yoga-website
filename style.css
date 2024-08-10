@@ -278,6 +278,25 @@
   width: 1566px;
 }
 
+.CHOO{
+    text-align: center;
+    padding-top: 23px;
+}
+
+
+
+.CHOO h1{
+font-size: 45px;
+    color: white;
+}
+
+.CHOO p{
+padding-left: 516px;
+    padding-right: 513px;
+    font-size: 18px;
+    color: aqua;
+}
+
 .card {
   display: flex;
   justify-content: space-evenly;
