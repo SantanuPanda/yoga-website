@@ -34,7 +34,7 @@
 .first {
   height: 800px;
   width: 1566px;
-  background-image: url(/E-COMMERCE/image/hotel.jpg);
+  background-image: url("https://github.com/SantanuPanda/yoga-website/blob/main/image/hotel.jpg?raw=true");
   background-repeat: no-repeat;
   background-size: cover;
 }
